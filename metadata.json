@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Veeraj Sai"
+            }
+        ],
+        "Name": "CryptoStats",
+        "Id": "CryptoStats",
+        "Description": "Real-time cryptocurrency prices using Coinbase API with curl backend",
+        "Category": "Utilities",
+        "Icon": "view-financial-category",
+        "EnabledByDefault": true,
+        "License": "GPL-3.0+",
+        "BugReportUrl": "https://github.com/VeerajSai/CryptoStats/issues",
+        "Version": "1.0",
+        "Website": "https://github.com/VeerajSai/CryptoStats/"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
