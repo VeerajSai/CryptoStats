@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1a4170ef-f396-4c6c-b5ca-8e529634473d" alt="Alt Text" width="300"\>
 </p>
-
+<img src= https://images.pling.com/img/00/00/83/47/47/2309211/cryptostats.png \>
 # 🪙  Real-Time Cryptocurrency Price Widget for Plasma 6
 **CryptoStats** is a sleek and lightweight Plasma 6 widget that displays real-time cryptocurrency prices directly on your KDE desktop. Built with performance in mind, it uses the Coinbase Public API with a simple `curl` backend to fetch the latest price data without requiring API keys or external dependencies.
 <div align="center">
